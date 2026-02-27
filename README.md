@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4d9588bb-23fe-4689-86b5-7e96328124ef)
+![Credit Card Dashboard Preview](images/Transaction_Week_53.png)
 # Credit Card Financial Dashboard Power BI Project 📊
 
 
@@ -39,19 +39,23 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 
 
 # 📊 Credit Card Transaction Report Dashboard - Week 52 (24th Dec 2023)
-📄 [View PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Transaction_Report-24-Dec-2023.pdf)
+![Transaction Report 24th](images/Transaction_Week_52.png)
+📄 *[Download PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Transaction_Report-24-Dec-2023.pdf)*
 
 
 # 📊 Credit Card Transaction Report Dashboard - Week 53 (31st Dec 2023)
-📄 [View PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Transaction_Report-31-Dec-2023.pdf)
+![Transaction Report 31st](images/Transaction_Week_53.png)
+📄 *[Download PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Transaction_Report-31-Dec-2023.pdf)*
 
 
 # 📊 Credit Card Customer Report Dashboard - Week 52 (24th Dec 2023)
-📄 [View PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Customer_Report-24-Dec-2023.pdf)
+![Customer Report 24th](images/Customer_Week_52.png)
+📄 *[Download PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Customer_Report-24-Dec-2023.pdf)*
 
 
 # 📊 Credit Card Customer Report Dashboard - Week 53 (31st Dec 2023)
-📄 [View PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Customer_Report-31-Dec-2023.pdf)
+![Customer Report 31st](images/Customer_Week_53.png)
+📄 *[Download PDF Report](Weekly%20Dashboard%20pdf/Credit_Card_Customer_Report-31-Dec-2023.pdf)*
 
 
 # 📊 Dashboard Insights
